@@ -1,5 +1,5 @@
 # Personal Portfolio
-This repository contains my portfolio of data science projects that I have completed for self learning and hobby purposes. The projects are presented in Jupyter notebooks which you can find the links to below.
+This repository contains my portfolio of data science projects that I have completed for self learning and hobby purposes. Written in Python, the projects are presented in Jupyter notebooks which you can find the links to below.
 
 _Note: The data sets used in the projects (please see data directory) has been retrieved from [Kaggle](https://www.kaggle.com/datasets/)._
 
